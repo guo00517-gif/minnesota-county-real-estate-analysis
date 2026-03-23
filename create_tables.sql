@@ -1,5 +1,4 @@
-DROP TABLE redfin_mn_county;
-
+-- Redfin MN County Table
 CREATE TABLE redfin_mn_county (
     period_begin                    DATE,
     period_end                      DATE,
@@ -61,7 +60,9 @@ CREATE TABLE redfin_mn_county (
     last_updated                    DATE
 );
 
- region_id           INT,
+-- Zillow ZHVI MN County Table
+CREATE TABLE zillow_zhvi_mn_county (
+    region_id           INT,
     size_rank           INT,
     region_name         VARCHAR(100),
     region_type         VARCHAR(50),
