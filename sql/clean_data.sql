@@ -18,10 +18,8 @@ WHERE median_sale_price > 2000000
 ORDER BY median_sale_price DESC;
 
 -- Step 3: Create clean view
-CREATE VIEW redfin_clean AS
+CREATE OR REPLACE VIEW redfin_clean AS
 SELECT *
 FROM redfin_mn_county
-WHERE median_sale_price BETWEEN 5000 AND 2000000
-  AND homes_sold > 0
-  AND median_dom IS NOT NULL
-  AND property_type = 'All Residential';
+WHERE median_sale_price IS NOT NULL 
+  AND region IS NOT NULL;
