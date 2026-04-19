@@ -1,6 +1,6 @@
 # Minnesota County Real Estate Investment Analysis
 
-### [**View Interactive Dashboard on Tableau Public**](https://public.tableau.com/app/profile/jeffery.guo/viz/MinnesotaCountyRealEstateInvestmentAnalysis/MinnesotaCountyRealEstateInvestmentAnalysisFeb2026?publish=yes)
+### [**View Interactive Dashboard on Tableau Public**]([https://public.tableau.com/app/profile/jeffery.guo/viz/MinnesotaCountyRealEstateInvestmentAnalysis/MinnesotaCountyRealEstateInvestmentAnalysisFeb2026?publish=yes](https://public.tableau.com/app/profile/jeffery.guo/viz/MN-Real-Estate-Investment-Matrix/MinnesotaCountyRealEstateInvestmentAnalysisFeb2026))
 
 ## Project Objective
 Developed a high-fidelity investment matrix to identify market inefficiencies and "Buy" signals across Minnesota. This project identifies high-yield opportunities by correlating median sale prices with inventory liquidity and YoY price growth.
