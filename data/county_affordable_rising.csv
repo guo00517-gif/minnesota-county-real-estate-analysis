@@ -1,0 +1,75 @@
+region,price_prior_12m,price_last_12m,sold_prior_12m,sold_last_12m,yoy_pct_change,affordable_rising
+"McLeod County, MN",263480,277939,391,438,5.5,t
+"Wadena County, MN",190552,232470,156,138,22.0,t
+"Grant County, MN",182341,217185,59,96,19.1,t
+"Watonwan County, MN",167318,173010,110,87,3.4,f
+"Jackson County, MN",176986,146958,57,72,-17.0,f
+"Lac qui Parle County, MN",155118,143694,51,52,-7.4,f
+"Aitkin County, MN",285484,317632,286,298,11.3,f
+"Scott County, MN",432411,433367,2012,2132,0.2,f
+"Lyon County, MN",188272,202504,220,221,7.6,t
+"Lake of the Woods County, MN",231830,212071,56,61,-8.5,f
+"Douglas County, MN",340365,350274,520,559,2.9,f
+"Murray County, MN",192587,211934,69,104,10.0,t
+"Waseca County, MN",218740,235956,229,190,7.9,t
+"Dakota County, MN",391588,397859,5545,5534,1.6,f
+"Ramsey County, MN",333206,337202,5644,5693,1.2,f
+"Houston County, MN",280336,283259,172,166,1.0,f
+"Rice County, MN",344392,342220,655,704,-0.6,f
+"Goodhue County, MN",311624,303417,507,571,-2.6,f
+"Crow Wing County, MN",349022,369078,1104,1127,5.7,f
+"Benton County, MN",306170,301905,415,421,-1.4,f
+"Redwood County, MN",144695,162979,117,137,12.6,t
+"Carver County, MN",481487,496587,1764,1741,3.1,f
+"Pine County, MN",289666,282840,363,357,-2.4,f
+"Pipestone County, MN",165937,162520,90,71,-2.1,f
+"Rock County, MN",248276,246726,93,99,-0.6,f
+"Sibley County, MN",255159,247778,140,155,-2.9,f
+"Morrison County, MN",261948,283179,330,310,8.1,f
+"Nobles County, MN",236087,254886,154,160,8.0,t
+"Mower County, MN",195064,211667,431,468,8.5,t
+"Kanabec County, MN",259359,294444,201,209,13.5,f
+"Faribault County, MN",141176,153215,156,170,8.5,t
+"Olmsted County, MN",329241,354430,2099,2184,7.7,f
+"Koochiching County, MN",147017,146611,109,106,-0.3,f
+"Stearns County, MN",287851,295425,1704,1740,2.6,f
+"Beltrami County, MN",282706,289421,435,434,2.4,f
+"Hennepin County, MN",394091,403958,16131,15741,2.5,f
+"Anoka County, MN",370166,375490,4418,4519,1.4,f
+"Pope County, MN",234908,290252,127,153,23.6,f
+"Pennington County, MN",174935,186816,116,125,6.8,t
+"Renville County, MN",173778,173344,129,125,-0.2,f
+"Meeker County, MN",261891,286360,233,249,9.3,f
+"Cook County, MN",432789,434934,123,114,0.5,f
+"Washington County, MN",433535,439308,4051,4056,1.3,f
+"Norman County, MN",158178,138803,58,54,-12.2,f
+"Chippewa County, MN",173868,190419,109,104,9.5,t
+"Lincoln County, MN",151006,174214,55,55,15.4,t
+"Cass County, MN",377638,368811,540,583,-2.3,f
+"Sherburne County, MN",369756,381756,1270,1357,3.2,f
+"Fillmore County, MN",232101,231434,173,198,-0.3,f
+"Freeborn County, MN",177393,195503,332,361,10.2,t
+"Swift County, MN",162813,177052,96,83,8.7,t
+"Roseau County, MN",192270,223636,114,126,16.3,t
+"Martin County, MN",179477,170083,223,235,-5.2,f
+"Le Sueur County, MN",323279,319488,315,366,-1.2,f
+"Stevens County, MN",197506,185535,83,79,-6.1,f
+"Winona County, MN",237228,252397,412,424,6.4,t
+"Wright County, MN",396136,398090,2413,2521,0.5,f
+"Cottonwood County, MN",140224,153639,103,99,9.6,t
+"Steele County, MN",278618,280357,400,431,0.6,f
+"Todd County, MN",216938,248137,231,244,14.4,t
+"Kandiyohi County, MN",289202,279071,455,482,-3.5,f
+"Mille Lacs County, MN",288149,295080,377,363,2.4,f
+"Wabasha County, MN",280988,302964,211,236,7.8,f
+"Yellow Medicine County, MN",169941,156157,80,91,-8.1,f
+"Otter Tail County, MN",280433,306484,793,766,9.3,f
+"Hubbard County, MN",303398,326753,288,328,7.7,f
+"Dodge County, MN",310154,318183,230,240,2.6,f
+"Wilkin County, MN",206177,219729,72,55,6.6,t
+"Becker County, MN",341229,372727,411,438,9.2,f
+"Clearwater County, MN",208936,223032,75,73,6.7,t
+"Itasca County, MN",251372,279363,575,536,11.1,f
+"Brown County, MN",203226,227581,227,223,12.0,t
+"Isanti County, MN",328585,343276,532,622,4.5,f
+"Chisago County, MN",373623,380088,787,817,1.7,f
