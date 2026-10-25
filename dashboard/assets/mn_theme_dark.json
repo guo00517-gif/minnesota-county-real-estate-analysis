@@ -1,0 +1,200 @@
+{
+  "name": "Minnesota Night Sky (Dark)",
+  "dataColors": [
+    "#52C9E8",
+    "#3A5A80",
+    "#A8DFF0",
+    "#8FA8C2",
+    "#0B5394",
+    "#A8DFF0",
+    "#3E4C5E",
+    "#E1E6ED"
+  ],
+  "background": "#06284D",
+  "foreground": "#EAF2F8",
+  "tableAccent": "#52C9E8",
+  "textClasses": {
+    "callout": {
+      "fontSize": 24,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#FFFFFF"
+    },
+    "title": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#FFFFFF"
+    },
+    "header": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#8FA8C2"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#8FA8C2"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": false
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "title": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#001B38"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "categoryLabels": [
+          {
+            "show": false
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "fontSize": 24,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": false,
+            "gridHorizontal": false,
+            "rowPadding": 2,
+            "outlineColor": {
+              "solid": {
+                "color": "#1E4A75"
+              }
+            }
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#8FA8C2"
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": "#06284D"
+              }
+            },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 9
+          }
+        ],
+        "values": [
+          {
+            "fontColorPrimary": {
+              "solid": {
+                "color": "#EAF2F8"
+              }
+            },
+            "backColorPrimary": {
+              "solid": {
+                "color": "#06284D"
+              }
+            },
+            "fontColorSecondary": {
+              "solid": {
+                "color": "#EAF2F8"
+              }
+            },
+            "backColorSecondary": {
+              "solid": {
+                "color": "#0A3058"
+              }
+            },
+            "fontSize": 10,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "scatterChart": {
+      "*": {
+        "legend": [
+          {
+            "show": false
+          }
+        ],
+        "categoryAxis": [
+          {
+            "showAxisTitle": false,
+            "gridlineShow": false,
+            "labelColor": {
+              "solid": {
+                "color": "#8FA8C2"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "showAxisTitle": false,
+            "gridlineShow": true,
+            "gridlineColor": {
+              "solid": {
+                "color": "#12385F"
+              }
+            },
+            "labelColor": {
+              "solid": {
+                "color": "#8FA8C2"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "shapeMap": {
+      "*": {
+        "legend": [
+          {
+            "show": false
+          }
+        ]
+      }
+    }
+  }
+}
